@@ -1,0 +1,35 @@
+[
+    {
+    "navTi":"Portfolio",
+    "navL":"#Portfolio",
+    "navTa":"blank",
+    "navMo":"true",
+    "navBg":"#EFEFEF",
+    "navCl":""
+    },
+    {
+    "navTi":"MakingNote",
+    "navL":"#MakingNote",
+    "navTa":"_blank",
+    "navMo":"true",
+    "navBg":"#E2E2E2",
+    "navCl":""
+    },
+    {
+    "navTi":"QnA",
+    "navL":"#QnA",
+    "navTa":"_blank",
+    "navMo":"true",
+    "navBg":"#CECECE",
+    "navCl":""
+    },
+    {
+    "navTi":"Shop",
+    "navL":"http://AwakendInsam.github.io",
+    "navTa":"_blank",
+    "navMo":"true",
+    "navBg":"#C0C0C0",
+    "navCl":""
+    }
+
+]

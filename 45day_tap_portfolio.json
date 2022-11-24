@@ -1,0 +1,27 @@
+[
+{
+"pr":["preview","../img/27day_01.png"],
+"nu":["number", "01"] ,
+"we":["week", "1week"],
+"su":["subject", "UI/UX 컨텐츠"]
+},
+{
+"pr":["preview", "./img/38daymain.jpg"],
+"nu":["number", "02" ],
+"we":["week" , "2week"],
+"su":["subject" , "반응형 디자인 패턴과 원리"]
+},
+{
+"pr":["preview", "./img/38daymain.jpg"],
+"nu":["number", "03"],
+"we":["week" , "3week"],
+"su":["subject" , "화면설계"]
+},
+{
+"pr":["preview", "./img/38daymain.jpg"],
+"nu":["number", "04"] ,
+"we":["week" , "4week"],
+"su":["subject" , "UI 디자인/구현 "]
+}
+
+]
